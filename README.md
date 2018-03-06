@@ -1,8 +1,8 @@
-# DISTANT SUPERVISION
+# Paraphrasing 
 
 ## Objective
 
-This repository will hold the code and papers relevant to variational autoencoders. 
+This repository will hold the code and papers relevant to my project on paraphrasing in the MALL Lab. 
 
 ## Authors
 
